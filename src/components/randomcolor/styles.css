@@ -1,0 +1,46 @@
+.randomcolorbox{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.randomcolorLabel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 30px;
+    flex-direction:column;
+}
+.randomcolorbutton{
+    display: flex;
+    /* flex-direction: column-reverse; */
+    justify-content: center;
+    padding: 20px;
+    gap: 20%;
+}
+.randomcolorindbutton{
+    display: flex;
+    justify-content: center;
+    /* background: rgb(179, 245, 223); */
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+}
+.randomcolorh3{
+    padding: 1%;
+    /* background-color: antiquewhite; */
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+.randomcolorh1{
+    padding: 1%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    /* background-color: antiquewhite; */
+
+}
